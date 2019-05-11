@@ -1,3 +1,4 @@
+type exported_audio_prop, property_type;
 type cnss_prop, property_type;
 type persist_nfc_prop, property_type;
 type post_boot_prop, property_type;
